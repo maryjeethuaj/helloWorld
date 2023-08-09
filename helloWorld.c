@@ -6,7 +6,7 @@ int main()
 {
 
 // prints hello world
-printf("Hello World");
+printf("Hello World in git");
 
 return 0;
 }
